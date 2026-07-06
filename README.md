@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prasannata Baniya! 👋</h1>
 
-<h3 align="center">Final-Year CSIT Student | Flutter & Full-Stack Developer</h3>
+<h3 align="center">CSIT Student | Flutter & Full-Stack Developer</h3>
 
 <p align="center">
   Passionate about architecting scalable, real-time cross-platform mobile applications and seamless backend integrations.
