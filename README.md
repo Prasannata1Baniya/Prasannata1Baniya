@@ -23,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart," />
    <img src="https://skillicons.dev/icons?i=firebase" />
    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socket.io" />
+   <img src="https://skillicons.dev/icons?i=nextjs" />
    <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
